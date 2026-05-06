@@ -11,5 +11,5 @@ import payment_subscription_management_system.demo.entity.Role;
 public class CreateUserRequestDTO {
     private String email;
     private String password;
-    private Role role;
+
 }
